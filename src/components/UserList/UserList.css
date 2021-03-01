@@ -1,0 +1,17 @@
+.users{
+
+ 
+  display: flex ;
+  flex-direction: row ;
+  flex-wrap: wrap;
+  justify-content: space-between;
+
+}
+
+.card{
+border: black;
+  border-radius: black !important;
+  margin: 5% !important;
+
+  
+}
